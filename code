@@ -1,0 +1,2 @@
+while True:
+print('Answer:', eval(input('Enter Expression: ')))
